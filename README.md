@@ -1,5 +1,5 @@
 # DragaPad
-This is the hackpad i made. Something that is speacial about it is that it has multiple colors and it has a design on the top part of the case!!!!
+This is the hackpad i made! Something that is speacial about it is that it has multiple colors and it has a dragon design on the top part of the case!!!!. It also has 6 button functions. I hope you like it :3
 
 ## Features
 - Six key design
