@@ -8,16 +8,16 @@ This is the hackpad i made. Something that is speacial about it is that it has m
 - Compact and portable
 
 ## Overview
-![Overall View](assets/overall.png)
+![Overall View](Assets/overview.png)
 
 ## PCB Layout
-![PCB Layout](assets/pcb.png)
+![PCB Layout](Assets/pcb.png)
 
 ## Schematic
-![Schematic](assets/schematic.png)
+![Schematic](Assets/schematic.png)
 
 ## Case
-![Case](assets/case.png)
+![Case](Assets/case.png)
 
 # Bill of Materials (BOM)
 ## Components List
